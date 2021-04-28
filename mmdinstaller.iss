@@ -14,6 +14,7 @@ AppVersion={#MyAppVersion}
 AppPublisherURL={#MyAppURL}
 AppSupportURL={#MyAppURL}
 AppUpdatesURL={#MyAppURL}
+ArchitecturesInstallIn64BitMode=x64 ia64
 DefaultDirName={pf}\MikuMikuDance
 DisableProgramGroupPage=yes
 OutputBaseFilename=MMDInstaller
